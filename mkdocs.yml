@@ -1,0 +1,8 @@
+site_name: Proyecto
+pages:
+  - Inicio: pro.md
+markdown_extensions:
+  - admonition
+extra_css:
+  - estilo.css
+
